@@ -1,0 +1,72 @@
+[
+    {
+        "domain_name": "mongodb.com",
+        "logo_url": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/mongodb.svg",
+        "company_name": "MongoDB"
+    },
+    {
+        "domain_name": "mongodb.com",
+        "logo_url": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/mongodb.svg",
+        "company_name": "MongoDB"
+    },
+    {
+        "domain_name": "profiles.utdallas.edu",
+        "logo_url": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/dr-dover-2.svg",
+        "company_name": "Dr. Dover"
+    },
+    {
+        "domain_name": "bill.com",
+        "logo_url": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/bill.svg",
+        "company_name": "Bill.com"
+    },
+    {
+        "domain_name": "engagio.com",
+        "logo_url": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/engagio.svg",
+        "company_name": "Engagio"
+    },
+    {
+        "domain_name": "bugcrowd.com",
+        "logo_url": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/bugcrowd.svg",
+        "company_name": "Bugcrowd"
+    },
+    {
+        "domain_name": "klaviyo.com",
+        "logo_url": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/klaviyo.svg",
+        "company_name": "Klaviyo"
+    },
+    {
+        "domain_name": "housecallpro.com",
+        "logo_url": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/housecall-pro.svg",
+        "company_name": "Housecall Pro"
+    },
+    {
+        "domain_name": "insightsquared.com",
+        "logo_url": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/insightsquared.svg",
+        "company_name": "InsightSquared"
+    },
+    {
+        "domain_name": "procore.com",
+        "logo_url": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/procore.svg",
+        "company_name": "Procore"
+    },
+    {
+        "domain_name": "growbots.com",
+        "logo_url": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/growbots.svg",
+        "company_name": "Growbots"
+    },
+    {
+        "domain_name": "everstring.com",
+        "logo_url": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/everstring.svg",
+        "company_name": "EverString"
+    },
+    {
+        "domain_name": "mettel.net",
+        "logo_url": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/mettel.svg",
+        "company_name": "MetTel"
+    },
+    {
+        "domain_name": "getguru.com",
+        "logo_url": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/guru.svg",
+        "company_name": "Guru"
+    }
+]
